@@ -1,6 +1,7 @@
 print("Hello World!")
 print(1) #1
 print(3*4)# 
+print(3**4)# 
 print(17/6)#자바처럼 몫이 나오지 않음
 print(17%6)#나머지
 # 그렇다면 몫을 구하고싶으면?
